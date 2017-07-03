@@ -1,6 +1,4 @@
 *.DS_Store
 *.ipynb_checkpoints
-machine-learning-in-action/.ipynb_checkpoints/
 .idea/
-linear-regression/.ipynb_checkpoints/
-logistic-regression/.ipynb_checkpoints/
+kaggle/CreditCardFraud/input/creditcard.csv
