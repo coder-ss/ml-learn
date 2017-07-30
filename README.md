@@ -23,4 +23,4 @@
 ## Python
 
 - NumPy基础 [github](https://github.com/coder-ss/ml-learn/blob/master/python-learning/numpy/numpy_summary.ipynb)、[blog](http://coderss.me/2017/05/11/machine_learning/numpy_summary/)
-- Pandas基础
+- Pandas基础 [github](https://github.com/coder-ss/ml-learn/blob/master/python-learning/pandas/pandas_summary.ipynb)
