@@ -12,6 +12,7 @@
 ## Kaggle
 
 - 信用卡诈骗识别 [github](https://github.com/coder-ss/ml-learn/blob/master/kaggle/CreditCardFraud/joparga3.ipynb)、[blog](http://coderss.me/2017/06/25/machine_learning/kaggle_credit_card_fraud_detection/)
+- Titanic(TOP 20%) [github](https://github.com/coder-ss/ml-learn/blob/master/kaggle/Titanic/yassineghouzam.ipynb)
 
 
 ## 小实践
