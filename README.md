@@ -15,5 +15,5 @@
 
 ## Python
 
-- [NumPy基础](./numpy/numpy_summary.ipynb)
-- [Pandas基础](./pandas/pandas_summary.ipynb)
+- [NumPy基础](./python-learning/numpy/numpy_summary.ipynb)
+- [Pandas基础](./python-learning/pandas/pandas_summary.ipynb)
